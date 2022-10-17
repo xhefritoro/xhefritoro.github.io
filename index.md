@@ -15,7 +15,7 @@ All of the tools learned in this program guided me throughout my career and cont
 
 ---
 
-[![Watch the video](https://i.imgur.com/XhaHoBu.png?raw=true)(https://shelter.xhefri.net/assets/video/code_review.mov)]
+[![Watch the video](https://i.imgur.com/XhaHoBu.png?raw=true)](https://shelter.xhefri.net/assets/video/code_review.mov)
 
 # 3. Software Designer and Engineering
 
