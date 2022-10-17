@@ -23,7 +23,7 @@ All of the tools learned in this program guided me throughout my career and cont
 
 ## 1. Overview
 
-![Overview_SDE](https://github.com/xhefritoro/xhefritoro.github.io/blob/master/assets/Untitled.png)
+![Overview_SDE](https://github.com/xhefritoro/xhefritoro.github.io/blob/master/assets/Untitled.png?raw=true)
 
 Artifact chosen for Software Design and Engineering is called Animal Shelter which is an inventory of rescued animals. It came from CS-340 course, and I’m using this artifact for Software Engineering/Design category. My plan to enhance this artifact is to run it through Lambda and API gateway as a Rest API and move the front end from python to TypeScript using Angular Framework. By doing so, I will be able to integrate the API with OIDC provider authentication such as Cognito, host the website as a static through CloudFront and S3 Buckets, and enable the ability to orchestrate cloud services using infrastructure as code by utilizing serverless application model (SAM) and satisfy course outcome 01 (Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science) which enables a collaborative environment to develop, as well as course outcome 05 (Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources) by integrating with OIDC provider and enable a secure authorization to users with JWT tokens.
 
@@ -78,7 +78,7 @@ Using OIDC providers and JWT token I ensured to have temporary access for the us
 
 ## 1. Overview
 
-![Overviw_AD](https://github.com/xhefritoro/xhefritoro.github.io/blob/master/assets/Untitled%201.png)
+![Overviw_AD](https://github.com/xhefritoro/xhefritoro.github.io/blob/master/assets/Untitled%201.png?raw=true)
 
 Artifact chosen for Algorithms and Data Structure is called Animal Shelter, which is an inventory of rescued animals. It came from CS-340. I will be using this artifact for Algorithms and Data Structures category. My plan to enhance this artifact is to move from mongodb connector to SQL Alchemy package. By doing so, I will be able to use object relational mapping to simplify the interaction the database to execute (C) create (R) read (U) update (D) delete orations. This will satisfy course outcome 04 (Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals), by using well-founded and innovative techniques as well as outcome 03 (Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices) of this course by constraining the application to be within the algorithmic principles and computer science practices and standards.
 
@@ -135,7 +135,7 @@ deliver value and accomplish industry-specific goals.
 
 ## 1. Overview
 
-![Overview_D](https://github.com/xhefritoro/xhefritoro.github.io/blob/master/assets/Untitled%202.png)
+![Overview_D](https://github.com/xhefritoro/xhefritoro.github.io/blob/master/assets/Untitled%202.png?raw=true)
 
 Artifact chosen for Databases is called Animal Shelter, which is an inventory of rescued animals. It came from CS-340 course, I will be using this artifact for the databases category. My plan is to move away from mongodb and use DynamoDB tables in AWS to make the application fully serverless. This approach will satisfy outcome 02 (Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts) of the course, by explaining how this conversion will be done and satisfy the delivery of oral, written, and visual communications of the changes.
 
